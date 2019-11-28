@@ -7,7 +7,7 @@
  First, we send a get query to the website; this return an HTML based document contain all of the website information.
  
  Then, the next step is parsing.
- and finally, I extracted the data that I need (parcial qualifications of my current semester).
+ and finally, I extracted the data that I need (information of my current semester).
  
  I need 3 libraries
  - Requests, Beautiful soup, lxml.
