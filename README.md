@@ -13,9 +13,9 @@
  - Requests, Beautiful soup, lxml.
  
  In my terminal:
- pip install requests #It's used for create the get query.
- pip install lxml #It's used for processing the html
- pip install beautifulsoup4 # it's used to create a parsed and navigable html document.
+ - pip install requests #It's used for create the get query.
+ - pip install lxml #It's used for processing the html
+ - pip install beautifulsoup4 # it's used to create a parsed and navigable html document.
  
  
  
